@@ -1,9 +1,26 @@
 # attendence-tracker
 Track learner attendance for remote learning based on learner manager inputs from daily standups. 
 
-Tools used: Airtable, Google Forms, Knime.
+## Overview
+This project aims to track the attendance of learners engaged in Umuzi's remote learning environment. Managers are able to input attendance details via daily standups, which are then aggregated and stored in an Airtable database. This platform serves to enhance accountability and facilitate monitoring of both punctuality and absence rates.
 
-Links may require permission:
+## Features
+Daily Standup Inputs: Attendance details from daily standups by managers.
+
+Automated Emails: Notifications sent to learners and managers post-attendance submission.
+
+Historical Data: Transformation of past attendance data from Google Forms to Airtable.
+
+Leave Management: Allow learners to submit leave requests and view their leave entitlement.
+
+## Tools Used
+Airtable
+
+Google Forms
+
+Knime
+
+## Links may require permission:
 
 [Wiki on Slab](https://umuzi.slab.com/topics/%F0%9F%8E%81-attendance-edl1kqiv)
 
