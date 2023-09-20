@@ -3,15 +3,15 @@ Track learner attendance for remote learning based on learner manager inputs fro
 
 Tools used: Airtable, Google Forms, Knime.
 
-https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/645c2c0b-1b52-47b2-a143-3d54323114e8
-
 Links may require permission:
 
 [Wiki on Slab](https://umuzi.slab.com/topics/%F0%9F%8E%81-attendance-edl1kqiv)
 
-[How to take attendance](https://umuzi.slab.com/posts/how-to-take-attendance-s1rl4kzk)
-
 [Historical attendance data](https://umuzi.slab.com/posts/historical-attendance-data-tl2xo5ig) - Knime used to transform historical data on Google Forms into new format for Airtable database.
+
+https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/645c2c0b-1b52-47b2-a143-3d54323114e8
+
+[How to take attendance](https://umuzi.slab.com/posts/how-to-take-attendance-s1rl4kzk)
 
 [Adding a new Attendance Taker](https://umuzi.slab.com/posts/adding-a-new-attendance-taker-ka9bl492)
 
