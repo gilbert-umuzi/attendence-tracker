@@ -2,16 +2,24 @@
 Track learner attendance for remote learning based on learner manager inputs from daily standups. 
 
 ## Overview
-This project aims to track the attendance of learners engaged in Umuzi's remote learning environment. Managers are able to input attendance details via daily standups, which are then aggregated and stored in an Airtable database. This platform serves to enhance accountability and facilitate monitoring of both punctuality and absence rates.
+This project aims to track the attendance of learners engaged in Umuzi's remote learning environment. Managers are able to input attendance details via daily standups, which are then aggregated and stored in an Airtable database. Learners and managers receive automated messages for absences, leave, and weekly summaries. This platform serves to enhance accountability and facilitate monitoring of both punctuality and absence rates.
 
 ## Features
-Daily Standup Inputs: Attendance details from daily standups by managers.
+**Historical Data:** Transformation of past attendance data from Google Forms to Airtable.
 
-Automated Emails: Notifications sent to learners and managers post-attendance submission.
+![image](https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/e6eaa962-32fd-45de-9c2e-b141f7efcc28)
 
-Historical Data: Transformation of past attendance data from Google Forms to Airtable.
+**Daily Standup Inputs:** Attendance details from daily standups by managers.
 
-Leave Management: Allow learners to submit leave requests and view their leave entitlement.
+![image](https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/2ecfada1-602d-435f-a54b-ded7e88b7086)
+
+**Automated Emails:** Notifications sent to learners and managers post-attendance submission.
+
+![image](https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/3da3dd13-8254-4e3c-8bb2-28ac42643e2f)
+
+**Leave Management:** Allow learners to submit leave requests and view their leave entitlement.
+
+![image](https://github.com/gilbert-umuzi/attendence-tracker/assets/68329360/f18d7050-dc56-48c5-995e-b2e504975450)
 
 ## Tools Used
 Airtable
